@@ -1,0 +1,9 @@
+.bordaAmarela {
+    border-style: solid;
+    border-color: #f8cb8a;
+    width: 100px;
+    height: 10px;
+    background-color: #f8cb8a;
+    position: relative;
+    margin: auto;
+}
